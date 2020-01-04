@@ -1,0 +1,52 @@
+.facebook, .twitter, .googleplus, .linkedin, .pyramd-orange, .bullet-black, .bullet-red, .bullet-orange{
+	background: url(sprites.png) no-repeat;
+}
+
+.facebook{
+	background-position: 0 0;
+	width: 36px;
+	height: 41px;
+}
+
+.twitter{
+	background-position: -38px 0;
+	width: 36px;
+	height: 41px;
+}
+
+.googleplus{
+	background-position: -113px 0;
+	width: 36px;
+	height: 41px;
+}
+
+.linkedin{
+	background-position: -75px 0;
+	width: 36px;
+	height: 41px;
+}
+
+.pyramd-orange{
+	background-position: 0 -47px ;
+	width: 74px;
+	height: 71px;
+}
+
+.bullet-black{
+	background-position: -75px -83px ;
+	width: 34px;
+	height: 32px;
+}
+
+.bullet-red{
+	background-position: -76px -47px ;
+	width: 34px;
+	height: 32px;
+}
+
+.bullet-orange{
+	background-position: -115px -46px ;
+	width: 34px;
+	height: 32px;
+}
+
